@@ -1,6 +1,8 @@
 # Blue sky (weather)
 
-A simple api based project
+A simple api based weather forecast application. it get user location and print the weather data in user location.<br>
+visit : https://blueskyweather.netlify.app
+![_C__Users_User_Desktop_app_weather-app_dist_electron_UnPackaged_index html](https://user-images.githubusercontent.com/69063039/171982667-82dd85a6-e09d-46e5-bd08-69ef27a983eb.png)
 
 ## Install the dependencies
 ```bash
@@ -23,4 +25,4 @@ quasar build
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
 
-![_C__Users_User_Desktop_app_weather-app_dist_electron_UnPackaged_index html](https://user-images.githubusercontent.com/69063039/171982667-82dd85a6-e09d-46e5-bd08-69ef27a983eb.png)
+
